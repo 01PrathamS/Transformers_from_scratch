@@ -12,7 +12,7 @@
 
 
 ## Resources 
---> Umer Jahil: Tranfomers from scratch
---> Analytics Vidhya: Transformers from scratch
---> Stanford Online: Transformers United Series 
---> Andrej Karpathy: Neural Network Zero to Hero: Build GPT
+1. Umer Jahil: Tranfomers from scratch
+2. Analytics Vidhya: Transformers from scratch
+3. Stanford Online: Transformers United Series 
+4. Andrej Karpathy: Neural Network Zero to Hero: Build GPT
