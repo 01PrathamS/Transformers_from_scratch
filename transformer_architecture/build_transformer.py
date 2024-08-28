@@ -12,6 +12,7 @@ def build_transformer(src_vocab_size: int,
                       src_seq_len: int, 
                       tgt_seq_len: int,
                       d_model: int = 512, 
+                      N: int = 6,
                       h: int = 6,
                       d_ff: int = 2048,
                       dropout: float = 0.1) -> Transformer:
