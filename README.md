@@ -1,4 +1,5 @@
 # Transformers_from_scratch
+Implementation of Vanilla Transformers from scratch (Attention is all you need)
 
 1. Embeddings: representing text in lower dimensional representation.
    converting text into numerical : learnable parameter.
